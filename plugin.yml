@@ -1,0 +1,23 @@
+main: me.alexisevelyn.project.Main
+name: ProjectName
+version: 1.0
+api-version: 1.15
+author: Alexis Evelyn
+description: Project Description
+
+depend: []
+softdepend: []
+
+commands:
+    commandOne:
+      description: Command Description
+      usage: /commandOne
+      permission: project.command
+      default: false
+      permission-message: You don't have the project.command permission.
+    commandTwo:
+      description: Command Description
+      usage: /commandTwo
+      permission: project.command
+      default: false
+      permission-message: You don't have the project.command permission.
