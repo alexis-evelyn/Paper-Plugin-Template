@@ -1,4 +1,4 @@
-package me.alexisevelyn.paperwild;
+package me.alexisevelyn.projectname;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
